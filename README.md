@@ -126,5 +126,12 @@
 
 [![Swarnab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Swarnab-Code&theme=chartreuse-dark)](https://github.com/Swarnab-Code/github-readme-activity-graph)
 
+<div align="center">
+
+## 🐍 Snake Game
+	
+![snake gif](https://github.com/Swarnab-Code/Swarnab-Code/blob/output/github-snake-dark.svg)
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Swarnab-Code&theme=radical&no-frame=false&no-bg=true&margin-w=4)
