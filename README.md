@@ -4,7 +4,7 @@
 
 <p align="center">
   	<a href="https://github.com/mrakmondal6612">
-		<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Ajay+Mondal.....;A+Passionate+Coder.....;Full-Stack+Engineer.....;AI+Enthusiast.....;Nice+To+Meet+You+....&center=true">
+		<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Swarnab+Saha.....;A+Passionate+Coder.....;Full-Stack+Engineer.....;AI+Enthusiast.....;Nice+To+Meet+You+....&center=true">
 	</a>
 </p>
 
