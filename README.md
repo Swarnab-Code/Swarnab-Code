@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Swarnab Saha</h1>
 
 <p align="center">
-  	<a href="https://github.com/mrakmondal6612">
+  	<a href="https://github.com/Swarnab-Code">
 		<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Swarnab+Saha.....;A+Passionate+Coder.....;Full-Stack+Engineer.....;AI+Enthusiast.....;Nice+To+Meet+You+....&center=true">
 	</a>
 </p>
@@ -127,4 +127,4 @@
 [![Swarnab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Swarnab-Code&theme=chartreuse-dark)](https://github.com/Swarnab-Code/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mrakmondal6612&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Swarnab-Code&theme=radical&no-frame=false&no-bg=true&margin-w=4)
