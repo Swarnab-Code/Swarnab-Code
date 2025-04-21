@@ -23,15 +23,15 @@
 
 <ul>
 	<li> 💻 Hello Everyone I'm <a href="https://github.com/Swarnab-Code">Swarnab Saha</a> </li>
-	<li> ✨ My favorite side project is <a href="https://github.com/Swarnab-Code/TicTacToe-Game">Tic-Tac-Toe Game with AI Intregation</a> </li>
+	<li> ✨ My favorite side project is <a href="https://github.com/Swarnab-Code/TicTacToe-Game">Chess Game with Real-Time Online Play</a> </li>
 	<li> 🔭 My newest side project is currently still in progress mode 🤫 </li>
 </ul>
 
-- 🔭 I’m currently working on **a Real-Estate website**
+- 🔭 I’m currently working on **Hotel Booking website**
 
 - 🌱 I’m currently learning **MERN, Advance Python**
 
-- 🤝 I’m looking for help with **Medical course provider website**
+- 🤝 I’m looking for help with **AI Trip planner Logic**
 
 - 💬 Ask me about **Full-Stack**
 
